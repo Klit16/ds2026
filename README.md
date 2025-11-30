@@ -11,4 +11,4 @@ Student Info
 
 * Student Name: Trương Đức Hiệp
 * Student ID: 22BA13130
-* Student Group ID: Not-for-noư
+* Student Group ID: 20
