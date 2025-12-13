@@ -1,0 +1,8 @@
+1. Create a dummy file for testing: echo "Hello Distributed Systems USTH" > test.txt
+2. Compile:
+    gcc server.c -o server
+    gcc client.c -o client
+3. Run:
+    Open terminal 1: ./server
+    Open terminal 2: ./client localhost
+4. Compare received_file.txt to text.txt
